@@ -1,4 +1,4 @@
-SLANG Group Website
+# SLANG Group Website
 
 SLANG Group is a reference for the multilingual web.
 
